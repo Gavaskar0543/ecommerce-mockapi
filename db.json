@@ -1,0 +1,16 @@
+{
+    "products": [
+      { "id": 1, "name": "Product A", "price": 20.99 },
+      { "id": 2, "name": "Product B", "price": 15.49 }
+    ],
+    "categories": [
+      { "id": 1, "name": "Electronics" },
+      { "id": 2, "name": "Clothing" }
+    ],
+    "users": [
+      { "id": 1, "username": "user1", "email": "user1@example.com" },
+      { "id": 2, "username": "user2", "email": "user2@example.com" }
+    ],
+    "orders": []
+  }
+  
